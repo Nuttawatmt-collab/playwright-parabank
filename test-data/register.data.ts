@@ -9,7 +9,7 @@ export const validRegisterData = () => {
     state: "TH",
     zipCode: "10110",
     ssn: "123456789",
-    username: `user${rnd}`,
+    username: `usersad`,
     password: "Passw0rd!",
     confirmPassword: "Passw0rd!"
   };
